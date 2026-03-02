@@ -16,7 +16,7 @@ Abaixo constam os requisitos técnicos a serem validados no arquivo `style.css`:
 * [x] **Estado de Interação:** Implementar a alteração de cor de fundo em elementos `button` via pseudo-classe `:hover`.
 * [X] **Combinador de Descendência:** Alterar a cor do elemento `p` que seja filho direto (`>`) da primeira `div` dentro da classe `.container`.
 * [X] **Manipulação de Pseudo-elemento:** Incrementar o `font-size` da primeira letra (`::first-letter`) de todos os parágrafos.
-* [ ] **Pseudo-classe Estrutural:** Aplicar `font-weight: bold` estritamente ao primeiro descendente `li` (`:first-child`).
+* [X] **Pseudo-classe Estrutural:** Aplicar `font-weight: bold` estritamente ao primeiro descendente `li` (`:first-child`).
 
 ---
 
