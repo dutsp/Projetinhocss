@@ -17,3 +17,9 @@ p{
 }
 
 /* o que voce prefere cloud in a bottle ou garras ferais? - dev2*/
+
+input[type="password"] {
+    border: 2px solid blue;
+}
+
+/* verme-da-trufa */
