@@ -4,19 +4,19 @@ Este documento detalha as soluções técnicas aplicadas ao arquivo de testes de
 
 ---
 
-### Especificações Técnicas de Seleção
+## Objetivos de Implementação
 
-A implementação seguiu os critérios de especificidade e herança do CSS para atender aos seguintes requisitos:
+Abaixo constam os requisitos técnicos a serem validados no arquivo `style.css`:
 
-* **Normalização de Tipografia:** Aplicação da propriedade `font-family: Arial, sans-serif` em todos os elementos de parágrafo (`p`).
-* **Definição de Escopo de Título:** Atribuição da propriedade `color: blue` ao elemento `h1` (Título Principal).
-* **Seletores de Classe:** Mapeamento de todos os elementos vinculados à classe `.destaque` para a aplicação de `background-color: yellow`.
-* **Identificação Univoca:** Seleção do "Item 2" para aplicação de cor vermelha (via ID ou seletor de ordem).
-* **Seletores de Atributo:** Filtragem de elementos `input` via predicado `[type="password"]` para definição de borda azul.
-* **Pseudo-classes de Estado:** Implementação do estado `:hover` em elementos `button` para alteração dinâmica de `background-color`.
-* **Combinadores de Descendência Direta:** Seleção do elemento `p` utilizando o combinador de filho direto `>` subordinado à primeira `div` contida em `.container`.
-* **Pseudo-elementos de Conteúdo:** Manipulação da primeira letra (`::first-letter`) de todos os parágrafos para incremento de `font-size`.
-* **Pseudo-classes Estruturais:** Aplicação de `font-weight: bold` estritamente ao primeiro descendente `li` (`:first-child`).
+* [ ] **Normalização Tipográfica:** Definir `font-family: Arial, sans-serif` para todos os elementos `p`.
+* [ ] **Estilização de ID:** Atribuir a cor azul ao título principal (`#titulo-principal`).
+* [ ] **Destaque de Classe:** Aplicar `background-color: yellow` em todos os elementos com a classe `.destaque`.
+* [ ] **Seleção Seletiva:** Atribuir a cor vermelha especificamente ao Item 2 (classe `.importante`).
+* [ ] **Seletor de Atributo:** Aplicar `border: 1px solid blue` apenas em elementos `input[type="password"]`.
+* [ ] **Estado de Interação:** Implementar a alteração de cor de fundo em elementos `button` via pseudo-classe `:hover`.
+* [ ] **Combinador de Descendência:** Alterar a cor do elemento `p` que seja filho direto (`>`) da primeira `div` dentro da classe `.container`.
+* [ ] **Manipulação de Pseudo-elemento:** Incrementar o `font-size` da primeira letra (`::first-letter`) de todos os parágrafos.
+* [ ] **Pseudo-classe Estrutural:** Aplicar `font-weight: bold` estritamente ao primeiro descendente `li` (`:first-child`).
 
 ---
 
