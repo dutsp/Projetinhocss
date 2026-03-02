@@ -10,7 +10,7 @@ Abaixo constam os requisitos técnicos a serem validados no arquivo `style.css`:
 
 * [X] **Normalização Tipográfica:** Definir `font-family: Arial, sans-serif` para todos os elementos `p`.
 * [X] **Estilização de ID:** Atribuir a cor azul ao título principal (`#titulo-principal`).
-* [ ] **Destaque de Classe:** Aplicar `background-color: yellow` em todos os elementos com a classe `.destaque`.
+* [X] **Destaque de Classe:** Aplicar `background-color: yellow` em todos os elementos com a classe `.destaque`.
 * [ ] **Seleção Seletiva:** Atribuir a cor vermelha especificamente ao Item 2 (classe `.importante`).
 * [ ] **Seletor de Atributo:** Aplicar `border: 1px solid blue` apenas em elementos `input[type="password"]`.
 * [ ] **Estado de Interação:** Implementar a alteração de cor de fundo em elementos `button` via pseudo-classe `:hover`.
