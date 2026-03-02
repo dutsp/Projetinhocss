@@ -14,7 +14,7 @@ Abaixo constam os requisitos técnicos a serem validados no arquivo `style.css`:
 * [X] **Seleção Seletiva:** Atribuir a cor vermelha especificamente ao Item 2 (classe `.importante`).
 * [X] **Seletor de Atributo:** Aplicar `border: 1px solid blue` apenas em elementos `input[type="password"]`.
 * [x] **Estado de Interação:** Implementar a alteração de cor de fundo em elementos `button` via pseudo-classe `:hover`.
-* [ ] **Combinador de Descendência:** Alterar a cor do elemento `p` que seja filho direto (`>`) da primeira `div` dentro da classe `.container`.
+* [X] **Combinador de Descendência:** Alterar a cor do elemento `p` que seja filho direto (`>`) da primeira `div` dentro da classe `.container`.
 * [ ] **Manipulação de Pseudo-elemento:** Incrementar o `font-size` da primeira letra (`::first-letter`) de todos os parágrafos.
 * [ ] **Pseudo-classe Estrutural:** Aplicar `font-weight: bold` estritamente ao primeiro descendente `li` (`:first-child`).
 

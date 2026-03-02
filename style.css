@@ -29,3 +29,9 @@ button:hover {
 }
 
 /* botao hoover DAM */
+
+.container > div:first-of-type > p {
+    color: #00008B
+}
+
+/* azulzinho
