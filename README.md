@@ -8,7 +8,7 @@ Este documento detalha as soluções técnicas aplicadas ao arquivo de testes de
 
 Abaixo constam os requisitos técnicos a serem validados no arquivo `style.css`:
 
-* [ ] **Normalização Tipográfica:** Definir `font-family: Arial, sans-serif` para todos os elementos `p`.
+* [X] **Normalização Tipográfica:** Definir `font-family: Arial, sans-serif` para todos os elementos `p`.
 * [ ] **Estilização de ID:** Atribuir a cor azul ao título principal (`#titulo-principal`).
 * [ ] **Destaque de Classe:** Aplicar `background-color: yellow` em todos os elementos com a classe `.destaque`.
 * [ ] **Seleção Seletiva:** Atribuir a cor vermelha especificamente ao Item 2 (classe `.importante`).
