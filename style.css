@@ -23,3 +23,9 @@ input[type="password"] {
 }
 
 /* verme-da-trufa */
+
+button:hover {
+    background-color: #d1d1d1;
+}
+
+/* botao hoover DAM */
